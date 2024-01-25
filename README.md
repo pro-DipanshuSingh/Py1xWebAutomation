@@ -1,4 +1,4 @@
-#python web automation
+### python web automation
 - Selenium
 - pytest
 - Allure pytest
@@ -8,5 +8,5 @@
 - openpyxl
 - Behave
 - Faker lib
-#pip install selenium pytest pytest-html allure-pytest
+# pip install selenium pytest pytest-html allure-pytest
 
